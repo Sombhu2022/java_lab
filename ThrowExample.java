@@ -5,7 +5,7 @@ public class ThrowExample {
             throw new ArithmeticException("Access denied");
         }
         else{
-            System.out.println("Access granted");
+            System.out.println("Access granted");   
         }
     }
    public static void main(String[] args) {
