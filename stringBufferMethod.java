@@ -31,6 +31,7 @@ public class stringBufferMethod {
 
           str.reverse();
           System.out.println(str);
+      
  
       }
 
